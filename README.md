@@ -27,6 +27,16 @@ Inspired by computer terminals in sci-fi movies of the 70s and 80s.
 	* Select `Nostromo` from the dropdown menu.
 	* Click the `Ok` button to activate the color scheme.
 
+## Screenshots
+#### AndroidStudio (Dark UI) - XML files
+<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenhost_androidstudio_xml.png"/>
+
+#### WebStrom (Light UI) - CSS files
+<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_webstorm_css.png"/>
+
+#### WebStrom (Light UI) - Javascript files
+<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_webstorm_js.png"/>
+
 ## Color Palette
 
 Color        | Hex       | RGB             | Usage
@@ -70,4 +80,5 @@ The Nostromo theme is also available for:
 © Martin Theimer
 
 <a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg"/></a>
+
 
