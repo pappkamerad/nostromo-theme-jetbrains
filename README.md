@@ -29,7 +29,7 @@ Inspired by computer terminals in sci-fi movies of the 70s and 80s.
 
 ## Screenshots
 #### AndroidStudio (Dark UI) - XML files
-<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenhost_androidstudio_xml.png"/>
+<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_androidstudio_xml.png"/>
 
 #### WebStrom (Light UI) - CSS files
 <img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_webstorm_css.png"/>
